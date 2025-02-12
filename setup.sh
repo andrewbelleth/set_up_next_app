@@ -1,5 +1,5 @@
    #!/bin/bash
-
+   
    # Remove existing .git directory if it exists
    if [ -d ".git" ]; then
      echo "Removing existing .git directory..."

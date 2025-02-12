@@ -1,0 +1,24 @@
+.
+├── jsconfig.json
+├── next-env.d.ts
+├── next.config.mjs
+├── output.txt
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── public
+│   ├── favicon.ico
+│   └── robots.txt
+├── setup.sh
+├── src
+│   ├── components
+│   ├── pages
+│   │   ├── _app.tsx
+│   │   ├── _document.tsx
+│   │   └── index.tsx
+│   └── styles
+│       └── globals.css
+├── tailwind.config.js
+└── tsconfig.json
+
+6 directories, 16 files
